@@ -6,7 +6,7 @@
 ![Screenshot (521)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/dbe5883f-99b5-46d7-87ad-5f27cf5f50e4)
 
 
-# Cloned Repo
+# Cloned Repo using `git clone https://github.com/sumo47/Sumit-kumar-Learning-Git.git`
 ![Screenshot 2024-04-19 115151](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/e4bf1903-ed12-45b2-b948-cacc0c9490ce)
 
 #  Create a new branch named "feature-branch" from the main/master branch.
