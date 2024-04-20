@@ -90,11 +90,18 @@ and after resolve conflict i have successfully pulled from collaborator-branch i
 ![Screenshot 2024-04-20 002725](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/7dc6e9a9-4c42-4b08-8029-b94f2efcdfd1)
 
 
+# - Make changes and create a pull request to the original repository.
+![Screenshot (562)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/56b55ec6-c2ce-420d-97b0-18798e3d01a9)
+![Screenshot (563)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/4387f2eb-3c24-4714-91f2-5b75a0c0b869)
+![Screenshot (564)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/bf868894-a69e-4c2f-bbb7-8a4c0966142f)
 
+# - Use the Git Lens extension in Visual Studio Code to visualize Git history.
+![Screenshot (565)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/c574ac3e-c67c-48f0-b16b-158ee7a1ba30)
 
-
-
-
+# - Deploy a static website using GitHub Pages.
+![Screenshot (556)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/a202f9f1-6a7b-4793-8293-75c79d3d9b96)
+![Screenshot 2024-04-20 004509](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/b5acd077-cc9b-447e-b416-20e94cbe488c)
+![Screenshot (561)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/845e46c8-24e7-4c11-b38e-4e125e113189)
 
 
 
