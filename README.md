@@ -10,15 +10,19 @@
 ![Screenshot 2024-04-19 115151](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/e4bf1903-ed12-45b2-b948-cacc0c9490ce)
 
 #  Create a new branch named "feature-branch" from the main/master branch.
+code - `git checkout -b feature-branch`
 ![Screenshot 2024-04-19 115657](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/495e6d7f-89e1-4a83-9f09-b20a91ffab71)
 
-checked using git status 
+checked using git status using `git status`
 ![Screenshot 2024-04-19 120653](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/9fc3d70e-6ebe-44e8-bba5-0d32842c3fc7)
 
 #  Added changes to the staging area and Commit changes with a meaningful commit message.
+added all files using `git add .`
+commit - `git commit -m "added new file"`
 ![Screenshot 2024-04-19 130802](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/f14e4313-c50c-431f-8d2f-3c1e0c9a37b5)
 
 # Pushed changes to the remote repository.
+`git push origin feature-branch`
 ![Screenshot 2024-04-19 132217](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/fc3eca47-b7b2-42b5-be08-f39e356d27ee)
 
 
@@ -31,10 +35,10 @@ created file in main branch ( in line 34 there is written card title)
 changed written word in line no 34 in collaborator-branch 
 ![Screenshot 2024-04-19 185357](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/489772d3-6c7f-4ed5-9864-b2bd64da4e6d)
 
-Mergeed in Main from collaborator-branch 
+Mergeed in Main from collaborator-branch using `git merge collaborator-branch`
 ![Screenshot (523)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/f4ad45fc-b8df-413d-a109-fa72efdec2cd)
 
-going to feature-branch and changed in line 34 again
+going to feature-branch using `git checkout feature-branch` and changed in line 34 again
 ![Screenshot (524)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/8f859e9a-fcbd-4eec-80c4-e28c2edfba95)
 
 added and commited in feature-branch
@@ -52,19 +56,19 @@ and added , committed in main branch
 ![Screenshot (529)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/c1fbb1f8-60dc-473d-b2c0-ea67fb25879b)
 
 i have done some changes in main branch for switching previous commit
-and used code - git checkout <hash> for switching to previous commit
+and used code - `git checkout <hash>` for switching to previous commit
 ![Screenshot (530)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/af46e677-4983-465f-b20e-0d1ae130aa42)
 ![Screenshot (531)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/ab64c736-9a58-4bf3-a80d-c4f3b94888a7)
 
 
-after write command code - git reset --hard Head~1 i can able to undo the last commit
+after write command code - `git reset --hard Head~1` i can able to undo the last commit
 ![Screenshot (533)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/dfa3a798-4cc9-4584-882b-6f8308cb4f06)
 
 # revert
 i have done 3 commit for revert
 ![Screenshot 2024-04-20 000604](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/7cd1cce1-22c0-479e-8e8a-9f72733efe7e)
 
-now i want to come back first commit than i have to use some command like code - git revert <hash>
+now i want to come back first commit than i have to use some command like code - `git revert <hash>`
 ![Screenshot (543)](https://github.com/sumo47/Sumit-kumar-Learning-Git/assets/88192207/6d1de340-46aa-4af5-9fe7-b9a32a09c621)
 there is some conflict occur , have to resolve
 
